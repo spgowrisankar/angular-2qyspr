@@ -1,3 +1,3 @@
-# angular-2qyspr
+WheatherApp
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-2qyspr)
